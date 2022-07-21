@@ -1,0 +1,6 @@
+{
+    "name": "maarten-twelvetwenty/advanced-custom-fields-pro",
+    "description": "acf",
+    "type": "wordpress-plugin",
+    "require": {}
+}
